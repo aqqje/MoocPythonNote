@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="918504e3-1a93-4431-b7e3-354b36e58965" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/CalWaterMarginV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/CalWaterMarginV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/LeanWordCloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/LearnJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/date/date.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/date/jieba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/date/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/date/水浒传.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/font/msyh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week06/note/WordCloudLean.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/AutoTraceDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/CalAndJoule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.1-文件的使用.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.2-实例11-自动轨迹绘制.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.3-一维数据的格式化和处理 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.3-一维数据的格式化和处理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.4-二维数据的格式化和处理 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week07/note/7.4-二维数据的格式化和处理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week08/MatchAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week08/note/8.1-实例13-体育竞技分析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week08/note/8.2-Python程序设计思维.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week08/note/8.3-Python第三方库安装.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/HollandRadarDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.0-第9周辅学内容.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.1-从数据处理到人工智能.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.2-实例15-霍兰德人格分析雷达图.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.3-从Web解析到网络空间.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.4-从人机交互到艺术设计.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.5-实例16-玫瑰花绘制 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09/note/9.5-实例16-玫瑰花绘制.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/CalHamletV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week06/CalHamletV1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/CalThreeKingdomsV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/week06/CalThreeKingdomsV1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/CalThreeKingdomsV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week06/CalThreeKingdomsV2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/excludes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/hamlet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week06/date/hamlet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week06/三国演义.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week06/date/三国演义.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MoocPython$HollandRadarDraw.coverage" NAME="HollandRadarDraw Coverage Results" MODIFIED="1526824225467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week09" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalThreeKingdomsV2.coverage" NAME="CalThreeKingdomsV2 Coverage Results" MODIFIED="1524148651409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$SevenDigitsDrawV2.coverage" NAME="SevenDigitsDrawV2 Coverage Results" MODIFIED="1523796594626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/MoocPython$AutoTraceDraw.coverage" NAME="AutoTraceDraw Coverage Results" MODIFIED="1524964734891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week07" />
+    <SUITE FILE_PATH="coverage/MoocPython$KochDrawV2.coverage" NAME="KochDrawV2 Coverage Results" MODIFIED="1523802670421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/MoocPython$RoseDraw.coverage" NAME="RoseDraw Coverage Results" MODIFIED="1526825099498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week09" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalWaterMarginV2.coverage" NAME="CalWaterMarginV2 Coverage Results" MODIFIED="1524298683039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$MatchAnalysis.coverage" NAME="MatchAnalysis Coverage Results" MODIFIED="1526824198807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week08" />
+    <SUITE FILE_PATH="coverage/MoocPython$KochDrawV1.coverage" NAME="KochDrawV1 Coverage Results" MODIFIED="1523802276801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalStatisticsV1.coverage" NAME="CalStatisticsV1 Coverage Results" MODIFIED="1524139629080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalHamletV1.coverage" NAME="CalHamletV1 Coverage Results" MODIFIED="1524143142862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$Exe001.coverage" NAME="Exe001 Coverage Results" MODIFIED="1524965712590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonEXE100" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalThreeKingdomsV1.coverage" NAME="CalThreeKingdomsV1 Coverage Results" MODIFIED="1524144020612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalWaterMarginV1.coverage" NAME="CalWaterMarginV1 Coverage Results" MODIFIED="1524296259371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$SevenDigitsDrawV1.coverage" NAME="SevenDigitsDrawV1 Coverage Results" MODIFIED="1523800625610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/MoocPython$LearnJson.coverage" NAME="LearnJson Coverage Results" MODIFIED="1524305103188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week06" />
+    <SUITE FILE_PATH="coverage/MoocPython$CalAndJoule.coverage" NAME="CalAndJoule Coverage Results" MODIFIED="1524972111976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week07" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CalAndJoule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week07/CalAndJoule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchAnalysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week08/MatchAnalysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HollandRadarDraw.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week09/HollandRadarDraw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TempComvert.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week01/TempComvert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>王庆</find>
+      <find>金银</find>
+      <find>童贯</find>
+      <find>杨林</find>
+      <find>施恩</find>
+      <find>军师</find>
+      <find>孙立</find>
+      <find>宋兵</find>
+      <find>穆弘</find>
+      <find>方才</find>
+      <find>项充</find>
+      <find>李衮</find>
+      <find>乐和</find>
+      <find>一丈</find>
+      <find>当先</find>
+      <find>禅杖</find>
+      <find>将佐</find>
+      <find>李应</find>
+      <find>萧让</find>
+      <find>汤隆</find>
+      <find>贤弟</find>
+      <find>门前</find>
+      <find>田虎</find>
+      <find>燕顺</find>
+      <find>李师师</find>
+      <find>吕方</find>
+      <find>石勇</find>
+      <find>back_color</find>
+      <find>render</find>
+      <find>title</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/week02/note/Learn_note.md" />
+        <option value="$PROJECT_DIR$/week01/note/Miss_note.md" />
+        <option value="$PROJECT_DIR$/week02/note/Miss_note.md" />
+        <option value="$PROJECT_DIR$/week03/note/Learn_note.md" />
+        <option value="$PROJECT_DIR$/week03/TextProBarV1.py" />
+        <option value="$PROJECT_DIR$/week03/TextProBarV2.py" />
+        <option value="$PROJECT_DIR$/week03/TextProBarV3.py" />
+        <option value="$PROJECT_DIR$/week03/note/Miss_note.md" />
+        <option value="$PROJECT_DIR$/week03/SquValFormat.py" />
+        <option value="$PROJECT_DIR$/week03/DayDayUp.py" />
+        <option value="$PROJECT_DIR$/week03/start.py" />
+        <option value="$PROJECT_DIR$/week03/StaArithmeticalOperation.py" />
+        <option value="$PROJECT_DIR$/week03/kaSai.py" />
+        <option value="$PROJECT_DIR$/week04/note/Miss_note.md" />
+        <option value="$PROJECT_DIR$/week04/TryExcept.py" />
+        <option value="$PROJECT_DIR$/week04/BMI.py" />
+        <option value="$PROJECT_DIR$/week04/BMI1.py" />
+        <option value="$PROJECT_DIR$/week04/note/Learn_note.md" />
+        <option value="$PROJECT_DIR$/week04/CalPiV1.py" />
+        <option value="$PROJECT_DIR$/week04/CalPiV2.py" />
+        <option value="$PROJECT_DIR$/week04/GradeScore.py" />
+        <option value="$PROJECT_DIR$/week04/1.py" />
+        <option value="$PROJECT_DIR$/week05/note/Lean_note.md" />
+        <option value="$PROJECT_DIR$/week05/SevenDigitsDrawV2.py" />
+        <option value="$PROJECT_DIR$/week05/SevenDigitsDrawV1.py" />
+        <option value="$PROJECT_DIR$/week05/KochDrawV1.py" />
+        <option value="$PROJECT_DIR$/week05/KochDrawV2.py" />
+        <option value="$PROJECT_DIR$/week06/CalStatisticsV1.py" />
+        <option value="$PROJECT_DIR$/week06/hamlet.txt" />
+        <option value="$PROJECT_DIR$/week06/三国演义.txt" />
+        <option value="$PROJECT_DIR$/week06/excludes.txt" />
+        <option value="$PROJECT_DIR$/week06/水浒传.txt" />
+        <option value="$PROJECT_DIR$/week06/date/date.txt" />
+        <option value="$PROJECT_DIR$/week06/date/jieba.txt" />
+        <option value="$PROJECT_DIR$/week06/CalHamletV1.py" />
+        <option value="$PROJECT_DIR$/week06/CalThreeKingdomsV1.py" />
+        <option value="$PROJECT_DIR$/week06/CalThreeKingdomsV2.py" />
+        <option value="$PROJECT_DIR$/week06/date/stopwords.txt" />
+        <option value="$PROJECT_DIR$/week06/note/WordCloudLean.txt" />
+        <option value="$PROJECT_DIR$/week06/LeanWordCloud.py" />
+        <option value="$PROJECT_DIR$/week06/CalWaterMarginV1.py" />
+        <option value="$PROJECT_DIR$/week06/LearnJson.py" />
+        <option value="$PROJECT_DIR$/week06/CalWaterMarginV2.py" />
+        <option value="$PROJECT_DIR$/week07/data.txt" />
+        <option value="$PROJECT_DIR$/PythonEXE100/Exe1.py" />
+        <option value="$PROJECT_DIR$/PythonEXE100/Exe001.py" />
+        <option value="$PROJECT_DIR$/PythonEXE100/Exe002.py" />
+        <option value="$PROJECT_DIR$/week07/AutoTraceDraw.py" />
+        <option value="$PROJECT_DIR$/week07/CalAndJoule.py" />
+        <option value="$PROJECT_DIR$/week08/Sprot.py" />
+        <option value="$PROJECT_DIR$/week08/MatchAnalysis.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="920" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MoocPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoocPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoocPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoocPython" type="462c0819:PsiDirectoryNode" />
+              <item name="week09" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MoocPython\week09" />
+      <recent name="F:\MoocPython\week08\note" />
+      <recent name="F:\MoocPython\PythonEXE100" />
+      <recent name="F:\MoocPython\week07\note" />
+      <recent name="F:\MoocPython\week06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MoocPython\week09" />
+      <recent name="F:\MoocPython\week09\note" />
+      <recent name="F:\MoocPython\week06\image" />
+      <recent name="F:\MoocPython\week06\date" />
+      <recent name="F:\MoocPython\week05\note" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.RoseDraw">
+    <configuration name="CalAndJoule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MoocPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week07/CalAndJoule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Exe001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MoocPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonEXE100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonEXE100/Exe001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HollandRadarDraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MoocPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week09/HollandRadarDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MatchAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MoocPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week08/MatchAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="RoseDraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MoocPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week09/RoseDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Exe001" />
+      <item itemvalue="Python.CalAndJoule" />
+      <item itemvalue="Python.MatchAnalysis" />
+      <item itemvalue="Python.HollandRadarDraw" />
+      <item itemvalue="Python.RoseDraw" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RoseDraw" />
+        <item itemvalue="Python.HollandRadarDraw" />
+        <item itemvalue="Python.MatchAnalysis" />
+        <item itemvalue="Python.CalAndJoule" />
+        <item itemvalue="Python.Exe001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918504e3-1a93-4431-b7e3-354b36e58965" name="默认的" comment="" />
+      <created>1521041622345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521041622345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="374" y="7" width="920" height="760" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32961783" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961783" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32961783" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1179402" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32961783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34338748" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="11" weight="0.36287627" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="调试" order="7" weight="0.32961783" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week01/TempComvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week08/MatchAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="23" lean-forward="true" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week07/CalAndJoule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week01/TempComvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week08/MatchAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week07/CalAndJoule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week01/TempComvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/TryExcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/CalPiV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/note/Miss_note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" lean-forward="true" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/note/Learn_note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/BMI1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week05/SevenDigitsDrawV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week05/note/Lean_note.md" />
+    <entry file="file://$PROJECT_DIR$/week05/SevenDigitsDrawV2.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week05/KochDrawV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/hamlet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="5577" column="41" lean-forward="true" selection-start-line="5577" selection-start-column="41" selection-end-line="5577" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/三国演义.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1784">
+          <caret line="564" column="25" lean-forward="true" selection-start-line="564" selection-start-column="25" selection-end-line="564" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/CalStatisticsV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/水浒传.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3244">
+          <caret line="30087" column="24" lean-forward="true" selection-start-line="30087" selection-start-column="24" selection-end-line="30087" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/jieba/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/date.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="108" column="11" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/excludes.txt" />
+    <entry file="file://$PROJECT_DIR$/week06/CalHamletV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week05/KochDrawV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week05/SevenDigitsDrawV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/CalThreeKingdomsV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/CalThreeKingdomsV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="333" column="2" selection-start-line="333" selection-start-column="2" selection-end-line="333" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/jieba.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="98" column="2" selection-start-line="98" selection-end-line="98" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/note/WordCloudLean.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/wordcloud/wordcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="571" column="31" lean-forward="true" selection-start-line="571" selection-start-column="31" selection-end-line="571" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/LeanWordCloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/CalWaterMarginV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/date/wordjson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret column="523" selection-start-column="523" selection-end-column="523" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/LearnJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week06/CalWaterMarginV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3732" column="13" selection-start-line="3732" selection-start-column="8" selection-end-line="3732" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week07/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonEXE100/Exe001.py" />
+    <entry file="file://$PROJECT_DIR$/week07/AutoTraceDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/GradeScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/CalPiV1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week04/BMI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week03/kaSai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week01/TempComvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week07/CalAndJoule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week08/MatchAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week09/HollandRadarDraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

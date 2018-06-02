@@ -1,0 +1,22 @@
+alice_mask是以数组的形式加载图画
+stopwords设置停止显示的词语
+WordCloud设置词云的属性
+generate生成词云
+to_file储存图片
+font_path表示用到字体的路径
+width和height表示画布的宽和高
+prefer_horizontal可以调整词云中字体水平和垂直的多少
+mask即掩膜，产生词云背景的区域
+scale:计算和绘图之间的缩放
+min_font_size设置最小的字体大小
+max_words设置字体的多少
+stopwords设置禁用词
+background_color设置词云的背景颜色
+max_font_size设置字体的最大尺寸
+mode设置字体的颜色 但设置为RGBA时背景透明
+relative_scaling设置有关字体大小的相对字频率的重要性
+regexp设置正则表达式
+collocations 是否包含两个词的搭配
+在generate函数中调试进去可以看到函数：
+words=process_text（text）可以返回文本中的词频
+generate_from_frequencies根据单词和词频创造一个词云
